@@ -1,4 +1,7 @@
-google-genai
-fastapi
-uvicorn
-python-dotenv
+google-generativeai: A biblioteca oficial do Gemini.
+
+python-dotenv: Para carregar sua API KEY do arquivo .env.
+
+pandas: Para ler e manipular os dados Excel, CSV.
+
+openpyxl: É uma dependência obrigatória para o Pandas conseguir ler arquivos Excel (.xlsx).
